@@ -64,8 +64,8 @@
 
 // // WHILE
 // var arr = [];
-// while (arr.length < 5) {
-//    arr.push('Camilo');
+// while (arr.length < 6) {
+//    arr.push('Rodrigo');
 // }
 // console.log(arr);
 
