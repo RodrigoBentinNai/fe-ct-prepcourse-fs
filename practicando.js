@@ -55,8 +55,13 @@
 // // FOR
 // var arr = [1, 2, 3, 4, 5];
 // for (let i = 0; i < arr.length; i++) {
-//    console.log(arr[i]);
+//     console.log(arr[i]);
 // }
+// //FOR...OF
+// for (var numeros of arr) {
+//     console.log(numeros);
+// }
+
 // // WHILE
 // var arr = [];
 // while (arr.length < 5) {
