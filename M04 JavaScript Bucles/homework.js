@@ -175,7 +175,7 @@ function esVerdadero(valor) {
    // Si "valor" es verdadero retornar "Soy verdadero".
    // Caso contrario, retornar "Soy falso".
    // Tu código:
-   if (valor) return "Soy verdadero";
+   if (valor === true) return "Soy verdadero";
    else return "Soy falso";
 }
 
